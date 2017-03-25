@@ -26,7 +26,7 @@
 <div class="city">
   <h2>Paris</h2>
   <p>Paris is the capital of France.</p> 
-  <p>The Paris area is one of the largest population centers in Europe, with more than 12 million inhabitants.</p>
+  <p>The Paris is beautiful place for visiting and manypeople visit ther to see Efil tower.</p>
 </div>
 
 <div class="city">
